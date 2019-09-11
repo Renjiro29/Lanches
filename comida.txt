@@ -2,3 +2,8 @@ Salada
 hamburguer
 pizza
 bolacha
+Tomate
+Nacho
+Batata-Frita
+aviao
+carro
